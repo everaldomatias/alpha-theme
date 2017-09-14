@@ -1,0 +1,20 @@
+// ==========================================================================
+// Theme Style Main Sass
+// ==========================================================================
+
+/*!
+Theme Name: Alpha Theme
+Author URI: https://everaldomatias.github.io/
+Description: Tema WordPress focado em profissionais liberais
+Author: Everaldo Matias
+Author URI: https://everaldomatias.github.io/
+*/
+
+@import
+        "variables",          	// Theme       	Custom Variables
+        "jasny-bootstrap",	// Jasny       	Lib
+        "layout",             	// Theme       	Custom Layout
+        "header",             	// Theme    	Header
+        "footer",		// Theme	Footer
+        "home"			// Home 	Custom Home
+;
