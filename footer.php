@@ -6,7 +6,7 @@
  * @since 0.1
  */
 ?>
-FOOTER
+	</div><!-- page-wrapper -->
 	<?php wp_footer(); ?>
 </body>
 </html>
