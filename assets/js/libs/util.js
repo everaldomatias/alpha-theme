@@ -58,7 +58,7 @@
 		// Vars.
 			var	$this = $(this),
 				$body = $('body'),
-				$window = $(window),
+				window = $(window),
 				id = $this.attr('id'),
 				config;
 
